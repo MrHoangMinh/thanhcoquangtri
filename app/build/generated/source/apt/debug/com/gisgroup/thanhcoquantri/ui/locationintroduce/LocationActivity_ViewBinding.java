@@ -14,13 +14,13 @@ import java.lang.Override;
 public class LocationActivity_ViewBinding<T extends LocationActivity> implements Unbinder {
   protected T target;
 
-  private View view2131230829;
+  private View view2131230836;
 
-  private View view2131230828;
+  private View view2131230835;
 
-  private View view2131230826;
+  private View view2131230833;
 
-  private View view2131230827;
+  private View view2131230834;
 
   public LocationActivity_ViewBinding(final T target, Finder finder, Object source) {
     this.target = target;
@@ -28,7 +28,7 @@ public class LocationActivity_ViewBinding<T extends LocationActivity> implements
     View view;
     view = finder.findRequiredView(source, R.id.mainbuttonmap, "field 'mainButtonMap' and method 'onClick'");
     target.mainButtonMap = finder.castView(view, R.id.mainbuttonmap, "field 'mainButtonMap'", RelativeLayout.class);
-    view2131230829 = view;
+    view2131230836 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -37,7 +37,7 @@ public class LocationActivity_ViewBinding<T extends LocationActivity> implements
     });
     view = finder.findRequiredView(source, R.id.mainbuttonlocation, "field 'mainButtonLocation' and method 'onClick'");
     target.mainButtonLocation = finder.castView(view, R.id.mainbuttonlocation, "field 'mainButtonLocation'", RelativeLayout.class);
-    view2131230828 = view;
+    view2131230835 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -46,7 +46,7 @@ public class LocationActivity_ViewBinding<T extends LocationActivity> implements
     });
     view = finder.findRequiredView(source, R.id.mainbuttoninfo, "field 'mainButtonInfo' and method 'onClick'");
     target.mainButtonInfo = finder.castView(view, R.id.mainbuttoninfo, "field 'mainButtonInfo'", RelativeLayout.class);
-    view2131230826 = view;
+    view2131230833 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -55,7 +55,7 @@ public class LocationActivity_ViewBinding<T extends LocationActivity> implements
     });
     view = finder.findRequiredView(source, R.id.mainbuttonintroduce, "field 'mainButtonIntroduce' and method 'onClick'");
     target.mainButtonIntroduce = finder.castView(view, R.id.mainbuttonintroduce, "field 'mainButtonIntroduce'", RelativeLayout.class);
-    view2131230827 = view;
+    view2131230834 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -74,14 +74,14 @@ public class LocationActivity_ViewBinding<T extends LocationActivity> implements
     target.mainButtonInfo = null;
     target.mainButtonIntroduce = null;
 
-    view2131230829.setOnClickListener(null);
-    view2131230829 = null;
-    view2131230828.setOnClickListener(null);
-    view2131230828 = null;
-    view2131230826.setOnClickListener(null);
-    view2131230826 = null;
-    view2131230827.setOnClickListener(null);
-    view2131230827 = null;
+    view2131230836.setOnClickListener(null);
+    view2131230836 = null;
+    view2131230835.setOnClickListener(null);
+    view2131230835 = null;
+    view2131230833.setOnClickListener(null);
+    view2131230833 = null;
+    view2131230834.setOnClickListener(null);
+    view2131230834 = null;
 
     this.target = null;
   }

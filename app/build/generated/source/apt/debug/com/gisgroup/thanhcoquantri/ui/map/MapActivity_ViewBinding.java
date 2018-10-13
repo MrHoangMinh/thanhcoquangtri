@@ -19,13 +19,13 @@ import java.lang.Override;
 public class MapActivity_ViewBinding<T extends MapActivity> implements Unbinder {
   protected T target;
 
-  private View view2131230852;
+  private View view2131230859;
 
-  private View view2131230853;
+  private View view2131230860;
 
-  private View view2131230836;
+  private View view2131230843;
 
-  private View view2131230838;
+  private View view2131230845;
 
   public MapActivity_ViewBinding(final T target, Finder finder, Object source) {
     this.target = target;
@@ -34,7 +34,7 @@ public class MapActivity_ViewBinding<T extends MapActivity> implements Unbinder 
     target.vListMapRecylerview = finder.findRequiredViewAsType(source, R.id.listmaprecylerview, "field 'vListMapRecylerview'", RecyclerView.class);
     view = finder.findRequiredView(source, R.id.navigationMenuButton, "field 'vNavigationMenuButton' and method 'onClick'");
     target.vNavigationMenuButton = finder.castView(view, R.id.navigationMenuButton, "field 'vNavigationMenuButton'", ImageView.class);
-    view2131230852 = view;
+    view2131230859 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -43,7 +43,7 @@ public class MapActivity_ViewBinding<T extends MapActivity> implements Unbinder 
     });
     view = finder.findRequiredView(source, R.id.navigationMenuButtonDetail, "field 'vNavigationMenuButtonDetail' and method 'onClick'");
     target.vNavigationMenuButtonDetail = finder.castView(view, R.id.navigationMenuButtonDetail, "field 'vNavigationMenuButtonDetail'", ImageView.class);
-    view2131230853 = view;
+    view2131230860 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -52,7 +52,7 @@ public class MapActivity_ViewBinding<T extends MapActivity> implements Unbinder 
     });
     view = finder.findRequiredView(source, R.id.maplayoutbartitle, "field 'vMapLayoutBarTitle' and method 'onClick'");
     target.vMapLayoutBarTitle = finder.castView(view, R.id.maplayoutbartitle, "field 'vMapLayoutBarTitle'", TextView.class);
-    view2131230836 = view;
+    view2131230843 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -65,7 +65,7 @@ public class MapActivity_ViewBinding<T extends MapActivity> implements Unbinder 
     target.vMapLayoutViewDetailt = finder.findRequiredViewAsType(source, R.id.map_view_detailt, "field 'vMapLayoutViewDetailt'", PercentRelativeLayout.class);
     view = finder.findRequiredView(source, R.id.mapopenmap, "field 'vOpenMapButotn' and method 'onClick'");
     target.vOpenMapButotn = finder.castView(view, R.id.mapopenmap, "field 'vOpenMapButotn'", RelativeLayout.class);
-    view2131230838 = view;
+    view2131230845 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -95,14 +95,14 @@ public class MapActivity_ViewBinding<T extends MapActivity> implements Unbinder 
     target.vMapDetailtLayouWebview = null;
     target.mWebviewMap = null;
 
-    view2131230852.setOnClickListener(null);
-    view2131230852 = null;
-    view2131230853.setOnClickListener(null);
-    view2131230853 = null;
-    view2131230836.setOnClickListener(null);
-    view2131230836 = null;
-    view2131230838.setOnClickListener(null);
-    view2131230838 = null;
+    view2131230859.setOnClickListener(null);
+    view2131230859 = null;
+    view2131230860.setOnClickListener(null);
+    view2131230860 = null;
+    view2131230843.setOnClickListener(null);
+    view2131230843 = null;
+    view2131230845.setOnClickListener(null);
+    view2131230845 = null;
 
     this.target = null;
   }

@@ -144,5 +144,7 @@ public class MapActivity extends BaseActivity implements MapAdapter.MapAdapterLi
     mMapAdapter.setListerner(null);
     mWebviewMap.clearCache(true);
     mWebviewMap = null;
+    vNavigationView.setNavigationItemSelectedListener(null);
+    vNavigationView = null;
   }
 }

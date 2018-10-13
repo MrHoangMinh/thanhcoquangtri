@@ -11,7 +11,7 @@
     tools:context=".ui.applicaitonintroduce.IntroduceActivity"
     >
 
-  <include layout="@layout/home_view"
+  <include layout="@layout/introduce_view_detailt"
       android:layout_width="match_parent"
       android:layout_height="match_parent"/>
   <android.support.design.widget.NavigationView

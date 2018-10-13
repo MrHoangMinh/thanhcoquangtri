@@ -75,12 +75,11 @@ public class BaseActivity extends AppCompatActivity
       appManager.setMenuSelectedIndex(3);
       intent = IntroduceActivity.newIntent(this,true);
     }
+    drawer.closeDrawer(GravityCompat.START);
     if (intent != null){
       startActivity(intent);
       finish();
     }
-    drawer.closeDrawer(GravityCompat.START);
-
     return true;
   }
 

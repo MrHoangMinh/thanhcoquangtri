@@ -2122,5 +2122,9 @@
     {
         "merged": "/Users/sss/Desktop/Android project/thanhcoquangtri/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/Users/sss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d852c8b4fc05a8076842e95484e34290/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sss/Desktop/Android project/thanhcoquangtri/app/build/intermediates/res/merged/debug/layout_introduce_view_detailt.xml.flat",
+        "source": "/Users/sss/Desktop/Android project/thanhcoquangtri/app/src/main/res/layout/introduce_view_detailt.xml"
     }
 ]

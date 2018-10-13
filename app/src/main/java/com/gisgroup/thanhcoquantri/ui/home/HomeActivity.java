@@ -43,20 +43,23 @@ public class HomeActivity extends BaseActivity {
   }
   @OnClick({R.id.mainbuttonmap,R.id.mainbuttonlocation,R.id.mainbuttoninfo,R.id.mainbuttonintroduce})
   public void onClick(View view){
+    Intent intent = null;
     switch (view.getId()){
       case R.id.mainbuttonmap:
-      startActivity(MapActivity.newIntent(this,false));
+        intent = MapActivity.newIntent(this,false);
         break;
       case R.id.mainbuttonlocation:
-        startActivity(LocationActivity.newIntent(this,false));
-        break;
-      case R.id.mainbuttoninfo:
-        startActivity(GeneralInforActivity.newIntent(this,false));
+        intent = LocationActivity.newIntent(this,false);
         break;
       case R.id.mainbuttonintroduce:
-        startActivity(IntroduceActivity.newIntent(this,false));
+        intent = GeneralInforActivity.newIntent(this,false);
         break;
-
+      case R.id.mainbuttoninfo:
+        intent = IntroduceActivity.newIntent(this,false);
+        break;
+    }
+    if (intent != null){
+      startActivity(intent);
     }
   }
   public static Intent newIntent(Context context, boolean isClearTop) {

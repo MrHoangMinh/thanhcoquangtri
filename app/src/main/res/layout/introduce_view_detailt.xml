@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/map_view"
+    android:background="@color/white"
+    >
+  <RelativeLayout
+      android:id="@+id/layoutbar"
+      android:background="@color/layoutbar_color"
+      app:layout_heightPercent="8%"
+      app:layout_widthPercent="100%"
+      >
+    <ImageView
+        android:id="@+id/navigationMenuButton"
+        android:layout_width="@dimen/width_percent_6"
+        android:layout_height="@dimen/width_percent_6"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/width_percent_4"
+        android:background="@drawable/icon_menu"
+        android:scaleType="fitXY"
+        />
+
+    <TextView
+        android:id="@+id/maplayoutbartitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/width_percent_4"
+        android:layout_toRightOf="@+id/navigationMenuButton"
+        android:fontFamily="sans-serif"
+        android:text="@string/introduce_title"
+        android:textColor="@color/colorapptext"
+        android:textSize="@dimen/width_percent_5"
+        android:textStyle="bold"
+        />
+  </RelativeLayout>
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_below="@id/layoutbar"
+      android:scrollbars="none"
+      >
+    <TextView
+        android:layout_marginTop="@dimen/width_percent_3"
+        android:layout_marginRight="@dimen/width_percent_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/width_percent_3"
+        android:fontFamily="sans-serif"
+        android:text="@string/app_introduce"
+        android:textColor="@color/coppyrightcolor"
+        android:textSize="@dimen/width_percent_5"
+        />
+  </ScrollView>
+
+</android.support.percent.PercentRelativeLayout>
