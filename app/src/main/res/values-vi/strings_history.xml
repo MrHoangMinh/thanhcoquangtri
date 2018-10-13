@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="history_no_order">Không có lịch sử giao dịch</string>
+    <string name="history_action_bar_order_at">Thời gian</string>
+    <string name="history_action_bar_items">Items</string>
+    <string name="history_action_bar_sa">SA</string>
+    <string name="history_action_bar_id_items">Số giao dịch</string>
+    <string name="history_action_bar_total">Tổng tiền</string>
+    <string name="history_receipt_detail">Chi tiết hóa đơn</string>
+    <string name="history_print">IN</string>
+    <string name="history_print_invoice">IN HÓA ĐƠN</string>
+    <string name="history_select_order">Chọn hóa đơn để xem chi tiết</string>
+    <string name="history_scan_receipt">Quét mã vạch trên hóa đơn</string>
+    <string name="history_enter_receipt_number">Nhập số hóa đơn</string>
+</resources>

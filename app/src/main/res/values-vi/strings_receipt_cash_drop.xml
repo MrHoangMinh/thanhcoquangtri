@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_drop_receipt_title">RÚT TIỀN</string>
+    <string name="cash_drop_receipt_bill_denomination">Mệnh giá</string>
+    <string name="cash_drop_receipt_number_of_bill">Số lượng</string>
+    <string name="cash_drop_receipt_amount">Số lượng đã rút:</string>
+    <string name="cash_drop_receipt_count">Số.</string>
+    <string name="cash_drop_receipt_cashtray_balance">Số tiền trong két:</string>
+    <string name="cash_drop_receipt_subtotal">Tổng</string>
+    <string name="cash_drop_receipt_staff">SA:</string>
+    <string name="cash_drop_receipt_time">Thời gian:</string>
+    <string name="cash_drop_receipt_signature">Chữ kí:</string>
+</resources>

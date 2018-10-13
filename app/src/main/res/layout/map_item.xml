@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_percent_10"
+    android:id="@+id/mapitemroot"
+    android:background="@color/white"
+    >
+  <TextView
+      android:id="@+id/map_item_view"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_centerInParent="true"
+      android:layout_marginLeft="@dimen/width_percent_2"
+      android:layout_marginRight="@dimen/width_percent_2"
+      android:fontFamily="sans-serif"
+      android:text="@string/map_title"
+      android:textColor="@android:color/black"
+      android:textSize="@dimen/width_percent_3"
+      />
+  <View
+      android:layout_width="match_parent"
+      android:layout_height="1dp"
+      android:layout_alignParentBottom="true"
+      android:layout_marginLeft="@dimen/width_percent_2"
+      android:layout_marginRight="@dimen/width_percent_2"
+      android:background="@color/layoutbar_color"
+      />
+</RelativeLayout>

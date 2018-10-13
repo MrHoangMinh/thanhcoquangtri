@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="for_staff">CHO NHÂN VIÊN</string>
+    <string name="for_manager">CHO QUẢN LÝ</string>
+    <string name="sale_item">BÁN HÀNG</string>
+    <string name="return_product_item">TRẢ HÀNG</string>
+    <string name="training_item">TẬP LUYỆN</string>
+    <string name="close_training_item">KẾT THÚC\nTẬP LUYỆN</string>
+    <string name="text_instore_payment">CASH EXPENSE</string>
+    <string name="text_transaction_history">LỊCH SỬ\nGIAO DỊCH</string>
+    <string name="text_cash_count">ĐẾM TIỀN</string>
+    <string name="text_manager_discount">CHIẾT KHẤU</string>
+    <string name="text_cashguard">RÚT TIỀN</string>
+    <string name="text_print_blank_receipt">IN HÓA ĐƠN TRẮNG</string>
+    <string name="text_no_sale">MỞ KÉT</string>
+    <string name="text_void">VOID</string>
+    <string name="text_shift_out">ĐÓNG CA</string>
+    <string name="text_shift_change">CHUYỂN GIAO CA</string>
+    <string name="text_manage_promotion">QUẢN LÝ\nKHUYẾN MẠI</string>
+    <string name="text_print_cash_summary">BÁO CÁO</string>
+    <string name="text_sync_data_manual">CẬP NHẬT DỮ LIỆU</string>
+    <string name="home_menu_disable_kiosk_mode">Tắt Kiosk</string>
+    <string name="home_menu_enable_kiosk_mode">Bật Kiosk</string>
+</resources>

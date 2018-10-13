@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_cash_input_bill_denomination">Mệnh giá</string>
+    <string name="widget_cash_input_number_of_bills">Số lượng</string>
+    <string name="widget_cash_input_subtotal">Tổng</string>
+</resources>

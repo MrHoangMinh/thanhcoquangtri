@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shift_in_user_name">Mã ID</string>
+    <string name="shift_in_password">Mã PIN</string>
+    <string name="shift_in_button">MỞ CA</string>
+    <string name="shift_out_button">ĐÓNG CA</string>
+
+    <string name="shift_in_via_card"><u>Mở ca bằng thẻ nhân viên</u></string>
+    <string name="shift_in_id"><u>Mở ca bằng ID</u></string>
+    <string name="enter_id_to_shift_in">Nhập mã ID để mở ca</string>
+    <string name="swipe_card_shift_in"><u>Quét thẻ để mở ca</u></string>
+
+    <string name="shift_out_via_card"><u>Đóng ca bằng thẻ nhân viên</u></string>
+    <string name="shift_out_id"><u>Đóng ca bằng ID</u></string>
+    <string name="swipe_card_shift_out"><u>Quét thẻ để đóng ca</u></string>
+
+    <string name="unlock_via_card"><u>Đăng nhập bằng thẻ nhân viên</u></string>
+    <string name="unlock_id"><u>Đăng nhập bằng ID</u></string>
+    <string name="enter_id_to_unlock">Nhập mã ID để đăng nhập</string>
+    <string name="swipe_card_unlock"><u>Quét thẻ để đăng nhập</u></string>
+
+    <string name="no_sale_via_card"><u>Mở két bằng thẻ</u></string>
+    <string name="no_sale_id"><u>Mở két bằng ID</u></string>
+    <string name="enter_id_to_no_sale">Nhập mã ID để tiếp tục</string>
+    <string name="swipe_card_no_sale"><u>Quét thẻ để tiếp tục</u></string>
+
+    <string name="cash_drop_via_card"><u>Rút tiền bằng thẻ nhân viên</u></string>
+    <string name="cash_drop_id"><u>Rút tiền bằng ID</u></string>
+    <string name="enter_id_to_cash_drop">Nhập mã ID để tiếp tục</string>
+    <string name="swipe_card_cash_drop"><u>Quét thẻ để tiếp tục</u></string>
+
+    <string name="cash_summary_via_card"><u>In báo cáo bằng thẻ</u></string>
+    <string name="cash_summary_id"><u>In báo cáo bằng ID</u></string>
+    <string name="enter_id_to_cash_summary">Nhập mã ID của SM để tiếp tục</string>
+    <string name="swipe_card_cash_summary"><u>Quét thẻ của SM để tiếp tục</u></string>
+
+    <string name="print_card_info_via_card"><u>In hóa đơn bằng thẻ</u></string>
+    <string name="print_card_info_id"><u>In hóa đơn bằng ID</u></string>
+    <string name="enter_id_to_print_card_info">Nhập mã ID của SM để tiếp tục</string>
+    <string name="swipe_card_print_card_info"><u>Quét thẻ của SM để tiếp tục</u></string>
+
+    <string name="transfer_shift_via_card"><u>Chuyển ca bằng thẻ</u></string>
+    <string name="transfer_shift_id"><u>Chuyển ca bằng ID</u></string>
+    <string name="enter_id_to_transfer_shift">Nhập mã ID để chuyển ca</string>
+    <string name="swipe_card_transfer_shift"><u>Quét thẻ để chuyển ca</u></string>
+
+    <string name="close_shift_via_card"><u>Đóng ca bằng thẻ</u></string>
+    <string name="close_shift_id"><u>Đóng ca bằng ID</u></string>
+    <string name="enter_id_to_close_shift">Nhập ID để đóng ca</string>
+    <string name="swipe_card_close_shift"><u>Quét thẻ để đóng ca</u></string>
+
+    <string name="cash_count_via_card"><u>Đếm tiền bằng thẻ</u></string>
+    <string name="cash_count_id"><u>Đóng thẻ bằng ID</u></string>
+    <string name="enter_id_to_cash_count">Nhập ID của SM để đếm tiền</string>
+    <string name="swipe_card_cash_count"><u>Quét thẻ SM để đếm tiền</u></string>
+
+    <string name="sync_data_via_card"><u>Cập nhật dữ liệu bằng thẻ</u></string>
+    <string name="sync_data_id"><u>Cập nhật dữ liệu bằng ID</u></string>
+    <string name="enter_id_to_sync_data">Nhập ID của SM để cập nhật dữ liệu</string>
+    <string name="swipe_card_sync_data"><u>Quét thẻ của SM để cập nhật dữ liệu</u></string>
+
+    <string name="open_settings_via_card"><u>Mở cài đặt bằng thẻ</u></string>
+    <string name="open_settings_id"><u>Mở cài đặt bằng ID</u></string>
+    <string name="enter_id_to_open_settings">Nhập ID của SM để mở cài đặt</string>
+    <string name="swipe_card_open_settings"><u>Quét thẻ của SM để mở cài đặt</u></string>
+
+    <string name="remove_all_via_card"><u>Xác nhận xóa bằng thẻ</u></string>
+    <string name="remove_all_by_id"><u>Xác nhận xóa bằng ID</u></string>
+    <string name="enter_id_to_remove_all">Nhập ID để xóa toàn bộ</string>
+    <string name="swipe_card_remove_all"><u>Quét thẻ để xóa toàn bộ</u></string>
+
+    <string name="apply_promotion_via_card"><u>Xác nhận áp dụng khuyến mại bằng thẻ</u></string>
+    <string name="apply_promotion_by_id"><u>Xác nhận khuyến mại bằng ID</u></string>
+    <string name="enter_id_to_apply_promotion">Nhập ID của SM để áp dụng khuyến mại</string>
+    <string name="swipe_card_apply_promotion"><u>Quét thẻ SM để áp dụng khuyến mại</u></string>
+
+    <string name="stop_promotion_via_card"><u>Xác nhận tạm dừng khuyến mại bằng thẻ</u></string>
+    <string name="stop_promotion_by_id"><u>Xác nhận tạm dừng khuyến mại bằng ID</u></string>
+    <string name="enter_id_to_stop_promotion">Nhập ID của SM để tạm từng khuyến mại</string>
+    <string name="swipe_card_stop_promotion"><u>Quét thẻ SM để tạm dừng khuyến mại</u></string>
+
+    <string name="active_promotion_via_card"><u>Xác nhận kích hoạt khuyến mại bằng thẻ</u></string>
+    <string name="active_promotion_by_id"><u>Xác nhận kích hoạt khuyến mại bằng ID</u></string>
+    <string name="enter_id_to_active_promotion">Nhập ID của SM để kích hoạt khuyến mại</string>
+    <string name="swipe_card_active_promotion"><u>Quét thẻ của SM để kích hoạt khuyến mại</u></string>
+
+    <string name="shift_in_invalid_password">Sai ID hoặc mã PIN, vui lòng thử lại.</string>
+    <string name="shift_in_invalid_card">Thẻ không hợp lệ, vui lòng thử lại.</string>
+    <string name="shift_in_swipe_again">Vui lòng quét thẻ lại.</string>
+    <string name="shift_in_cash_drawer_open">Két đang được mở\mVui lòng lấy tiền và đóng két lại.</string>
+    <string name="sa_shift_in_button">Nhân viên mở ca</string>
+    <string name="shm_shift_in_button">Nhân viên mở ca</string>
+    <string name="sa_shift_in_card">Nhân viên</string>
+    <string name="shm_shift_in_card">Quản lý</string>
+    <string name="login">Đăng nhập</string>
+    <string name="sa_login_in_button">Nhân viên đăng nhập</string>
+    <string name="shm_login_in_button">Quản lý đăng nhập</string>
+    <string name="error_max_length_pin_code">Mã PIN có tối đa 4 kí tự</string>
+    <string name="must_input_user_id_pin_code">Bạn phải nhập mã ID và mã PIN</string>
+
+    <string name="shift_in_enable_kios_mode">Enable Kiosk Mode</string>
+    <string name="shift_in_disenable_kios_mode">Disable Kiosk Mode</string>
+    <string name="shift_in_settings">Settings</string>
+
+    <string name="shift_in_login_feature_title">ĐĂNG NHẬP</string>
+    <string name="shift_in_shift_in_feature_title">MỞ CA</string>
+    <string name="shift_in_shift_transfer_feature_title">CHUYỂN CA</string>
+    <string name="shift_in_close_shift_feature_title">ĐÓNG CA</string>
+    <string name="shift_in_cash_count_feature_title">ĐẾM TIỀN</string>
+    <string name="shift_in_sync_data_manual_feature_title">CẬP NHẬT DỮ LIỆU</string>
+    <string name="shift_in_cash_summary_feature_title">BÁO CÁO</string>
+    <string name="shift_in_cash_drop_feature_title">RÚT TIỀN</string>
+    <string name="shift_in_remove_all_feature_title">XÓA TẤT CẢ</string>
+    <string name="shift_in_apply_payment_promotion_feature_title">ÁP DỤNG KHUYẾN MẠI</string>
+    <string name="shift_in_stop_promotion_feature_title">TẠM DỪNG</string>
+    <string name="shift_in_active_promotion_feature_title">KÍCH HOẠT</string>
+    <string name="shift_in_no_sale_feature_title">MỞ KÉT</string>
+    <string name="shift_in_print_card_info_title">IN THÔNG TIN THẺ</string>
+    <string name="shift_in_settings_feature_title">MỞ CÀI ĐẶT</string>
+</resources>

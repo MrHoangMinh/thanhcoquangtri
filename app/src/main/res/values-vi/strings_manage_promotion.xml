@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manage_promotion_promotion_code">ID</string>
+    <string name="manage_promotion_promotion_name">Tên khuyến mại</string>
+    <string name="manage_promotion_promotion_type">Loại</string>
+    <string name="manage_promotion_promotion_status">Trạng thái</string>
+    <string name="manage_promotion_promotion_suggestion">Chọn khuyến mại để xem chi tiết</string>
+    <string name="manage_promotion_no_promotion">Không có chương trình khuyến mại nào cho cửa hàng này</string>
+    <string name="manage_promotion_promotion_detail">Chi tiết</string>
+    <string name="manage_promotion_promotion_active_promotion">KÍCH HOẠT</string>
+    <string name="manage_promotion_promotion_stop_promotion">TẠM DỪNG</string>
+
+    <string name="manage_promotion_promotion_detail_id">ID</string>
+    <string name="manage_promotion_promotion_detail_name">Tên khuyến mại</string>
+    <string name="manage_promotion_promotion_detail_type">Loại</string>
+    <string name="manage_promotion_promotion_detail_is_additive">Là phụ</string>
+    <string name="manage_promotion_promotion_detail_number_offer">Số lượng phục vụ</string>
+    <string name="manage_promotion_promotion_detail_start_date">Ngày bắt đầu</string>
+    <string name="manage_promotion_promotion_detail_end_date">Ngày kết thúc</string>
+    <string name="manage_promotion_promotion_detail_deactivate_date">Ngày hủy kích hoạt</string>
+    <string name="manage_promotion_promotion_detail_description">Miêu tả</string>
+    <string name="manage_promotion_promotion_detail_bill_amount">Số tiền thanh toán yêu cầu</string>
+    <string name="manage_promotion_promotion_detail_total_discount">Số tiền được giảm</string>
+    <string name="manage_promotion_promotion_detail_total_gift">Tổng quà tặng</string>
+
+    <string name="manage_promotion_promotion_detail_payment_name">Phương thức thanh toán</string>
+    <string name="manage_promotion_promotion_detail_set_name">Tên set</string>
+    <string name="manage_promotion_promotion_detail_set_detail">Chi tiết</string>
+    <string name="manage_promotion_promotion_detail_set_condition">Điều kiện</string>
+
+    <string name="search_promotion_title">TÌM KIẾM CHƯƠNG TRÌNH KHUYẾN MẠI</string>
+    <string name="search_promotion_info_title">ID KHUYẾN MẠI</string>
+</resources>

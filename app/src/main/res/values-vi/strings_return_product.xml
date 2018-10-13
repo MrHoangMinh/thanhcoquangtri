@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="return_product_scan_receipt">Quét mã hóa đơn</string>
+    <string name="return_product_enter_receipt_number">Nhập số hóa đơn</string>
+    <string name="return_product_or">hoặc</string>
+    <string name="return_product_wrong_receipt_training">Hóa đơn không tồn tại hoặc đã được trả</string>
+    <string name="return_product_wrong_receipt_date">Hóa đơn đã quá hạn được trả (7 Ngày)</string>
+    <string name="return_product_wrong_receipt_return_all">Hóa đơn đã được trả hết</string>
+    <string name="return_product_wrong_receipt_address">Hóa đơn được thanh toán tại cửa hàng khác</string>
+    <string name="return_product_receipt_address_title">Địa chỉ cửa hàng</string>
+    <string name="return_product_wrong_receipt_ok">OK</string>
+    <string name="return_product_receipt_detail">Chi tiết hóa đơn</string>
+    <string name="return_product_return_title">TRẢ HÀNG</string>
+    <string name="return_product_total_paid">TỔNG</string>
+    <string name="return_product_scan_item_code_to_add_list">Quét mã vạch trên sản phẩm\nđể thêm vào danh sách</string>
+    <string name="return_product_refund_title">TRẢ LẠI</string>
+    <string name="return_product_confirm_policy_title">XÁC NHẬN</string>
+    <string name="return_product_receipt_credit_card_type_title">(THẺ)</string>
+    <string name="return_product_receipt_moca_type_title">(MOCA)</string>
+</resources>

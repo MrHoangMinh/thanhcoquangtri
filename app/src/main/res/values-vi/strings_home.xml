@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="home_delete_bill"><u>REMOVE ALL</u></string>-->
+    <!--<string name="actionbar_product_name">Item</string>-->
+    <string name="home_sign_out">Khóa máy</string>
+    <string name="home_search">Tìm kiếm</string>
+    <string name="home_search_hint">Search Item\'s name&#47;code</string>
+    <string name="home_total_paid">Tổng tiền</string>
+    <string name="home_total_paid_after_promotion">Tổng tiền sau khuyến mại</string>
+    <string name="home_payment">Thanh toán</string>
+    <string name="home_up_sale">UpSale</string>
+    <string name="home_credit"></string>
+    <string name="home_save_bill">LƯU</string>
+    <string name="home_retrieve_bill">KHÔI PHỤC</string>
+    <string name="home_delete_bill">XÓA TẤT CẢ</string>
+    <string name="home_scan_item_code_to_add_list">Quét mã vạch\nđể thêm sản phẩm</string>
+
+    <string name="home_retrieve_order_confirm">Bạn có muốn khôi phục\ngiao dịch đã lưu không?</string>
+    <string name="home_retrieve_order_confirm_yes">Có</string>
+    <string name="home_retrieve_order_confirm_no">Không</string>
+
+    <string name="home_remove_all_items_confirm">Bạn có muốn xóa toàn bộ sản phẩm không?</string>
+    <string name="home_remove_all_items_confirm_yes">Có</string>
+    <string name="home_remove_all_items_confirm_no">Không</string>
+
+    <string name="home_save_order_successfully">Đã lưu</string>
+
+    <string name="home_show_promotion_sale_info_popup_promotion_name">Tên Khuyến Mãi:</string>
+    <string name="home_show_promotion_sale_info_popup_promotion_suggestion">Gợi ý:</string>
+
+    <string name="home_holder_retrieve_order_item_order_at">Thời gian</string>
+    <string name="home_holder_retrieve_order_item_total">Tổng</string>
+    <string name="home_holder_retrieve_order_item_delete_order"><u>Xóa đặt hàng</u></string>
+
+    <string name="home_cash_tray_over"></string>
+    <string name="home_option_promotion">KHUYẾN MẠI</string>
+    <string name="home_option_product_popular">PHỔ BIẾN</string>
+    <string name="home_option_product_oden">ODEN</string>
+    <string name="home_option_product_services">DỊCH VỤ</string>
+    <string name="home_option_product_drinks">ĐỒ UỐNG</string>
+    <string name="home_option_product_fresh_food">THỨC ĂN NHANH</string>
+
+    <string name="home_parked_transaction_confirm_title">Giao dịch chưa hoàn thành hoặc đang được lưu.\nCó muốn xóa và tiếp tục không?</string>
+    <string name="home_parked_transaction_confirm">XÁC NHẬN</string>
+
+    <string name="dialog_confirm_free_gif_valid_title">Mã giảm giá không hợp lệ</string>
+    <string name="dialog_confirm_free_gif_valid_content">Bạn có muốn đổi mã giảm giá này để lấy </string>
+    <string name="dialog_confirm_free_gif_invalid_title">Mã giảm giá không hợp lệ</string>
+    <string name="dialog_confirm_free_gif_invalid_content">Vui lòng kiểm tra lại mã giảm giá</string>
+
+    <string name="home_delivery_need_to_be_clear">XÓA giao dịch giao hàng trước.</string>
+    <string name="home_delivery_not_exist_product">Một số sản phẩm không thuộc cửa hàng.</string>
+    <string name="dialog_rewards_info_delivery_tab">GIAO HÀNG</string>
+    <string name="dialog_rewards_info_phone_tab">ĐIỆN THOẠI</string>
+    <string name="dialog_rewards_info_title">Quét mã QR 7REWARDS hoặc nhập số điện thoại</string>
+
+    <string name="home_still_have_transaction_in_progress">There are still transaction items in progress or parked, please try it later</string>
+
+
+    <!--<string name="home_promotion_empty">There aren\'t any promotions founded</string>-->
+    <!--<string name="home_selection_promotion_confirm">Are you sure you want to skip promotions\nof this transaction?</string>-->
+    <!--<string name="home_selection_promotion_confirm_skip">Skip</string>-->
+    <!--<string name="home_selection_promotion_confirm_cancel">Cancel</string>-->
+
+    <!--<string name="home_holder_promotion_upsale_add_on_title">ADD ON</string>-->
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_menu_apk_check_for_update">KIỂM TRA PHIÊN BẢN MỚI</string>
+    <string name="settings_menu_apk_checking">KIỂM TRA...</string>
+    <string name="settings_menu_apk_downloading">ĐANG TẢI XUỐNG</string>
+    <string name="settings_menu_apk_install">CÀI ĐẶT</string>
+    <string name="settings_menu_sync_data">CẬP NHẬT DỮ LIỆU</string>
+    <string name="settings_menu_enable_kiosk_mode">BẬT\n MODE</string>
+    <string name="settings_menu_disable_kiosk_mode">TẮT\n KIOSK</string>
+    <string name="settings_menu_title">CÀI ĐẶT</string>
+    <string name="settings_menu_languages_en">EN</string>
+    <string name="settings_menu_languages_vn">VN</string>
+    <string name="settings_menu_change_languages_successful">Thay đổi ngôn ngữ thành công</string>
+</resources>

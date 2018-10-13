@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_title">Tìm kiếm sản phẩm</string>
+    <string name="search_barcode_title">Mã vạch hoặc tên sản phẩm</string>
+    <string name="search_cant_find_title">Không tìm thấy sản phẩm</string>
+    <string name="search_offline_sale">Bán hàng ngoại tuyến</string>
+    <string name="search_choose">Chọn</string>
+    <string name="search_suggestion">Vui lòng nhập thông tin sản phẩm hoặc quét mã vạch để tìm</string>
+</resources>

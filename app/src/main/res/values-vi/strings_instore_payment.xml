@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="instore_payment_fee_amount">Phí</string>
+    <string name="instore_payment_service">Dịch vụ</string>
+    <string name="instore_payment_choose_service">Chọn loại dịch vụ</string>
+    <string name="instore_payment_add_a_service">Thêm dịch vụ...</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_count_receipt_title">ĐẾM TIỀN</string>
+    <string name="cash_count_receipt_pos_id">POS ID:</string>
+    <string name="cash_count_receipt_sale_shift_id">CA SỐ:</string>
+    <string name="cash_count_receipt_sa">SA:</string>
+
+    <string name="cash_count_receipt_reported_cash">Số tiền ghi nhận:</string>
+    <string name="cash_count_receipt_cash_tray">Số tiền trong két:</string>
+    <string name="cash_count_receipt_surplus">Số tiền chênh lệch:</string>
+    <string name="cash_count_receipt_partial_sale">Một phần bán hàng:</string>
+    <string name="cash_count_receipt_over_short_cash_sc">Số tiền chênh lệch(SC):</string>
+    <string name="cash_count_receipt_over_short_cash_pos">Số tiền chênh lệch(POS):</string>
+    <!--<string name="cash_count_receipt_short_cash">Short amount:</string>-->
+    <string name="cash_count_receipt_sign_here">Chữ kí:</string>
+</resources>

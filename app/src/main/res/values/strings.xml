@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Thành Cổ Quảng Trị </string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="nav_header_title">Android Studio</string>
+  <string name="nav_header_subtitle">android.studio@android.com</string>
+  <string name="nav_header_desc">Navigation header</string>
+  <string name="action_settings">Settings</string>
+  <string name="main_title">THÀNH CỔ QUẢN TRỊ</string>
+  <string name="app_coppy_right">Phiên bản TCQT 2018.1.0 GIS Group. \n Bản quyền thuộc về GIS Group. </string>
+  <string name="map_title">Bản Đồ</string>
+  <string name="generalinfo_title">Thông tin chung </string>
+  <string name="location_title">Các địa điểm</string>
+  <string name="introduce_title">Giới thiệu</string>
+  <string name="open_map">Mở Bản Đồ</string>
+
+</resources>

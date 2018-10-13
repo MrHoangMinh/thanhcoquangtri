@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_payment_title">Mua Mã Thẻ</string>
+    <string name="card_payment_type_title">Phương thức thanh toán</string>
+    <string name="card_payment_buy_item_title">Mua mã thẻ</string>
+    <string name="card_payment_top_up_title">Nạp Topup</string>
+    <string name="card_payment_supplier">Nhà cung cấp</string>
+    <string name="card_payment_choose_supplier">Chọn nhà cung cấp</string>
+    <string name="card_payment_card">Mệnh giá</string>
+    <string name="card_payment_choose_card">Chọn mệnh giá</string>
+    <string name="card_payment_currency">VND</string>
+    <string name="card_payment_done">Thanh toán</string>
+    <string name="card_payment_phone_number_title">Số điện thoại</string>
+</resources>

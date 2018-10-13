@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="topup_payment_title">Thanh Toán Top Up</string>
+    <string name="topup_payment_card">Mệnh giá</string>
+    <string name="topup_payment_choose_card">Chọn mệnh giá</string>
+    <string name="topup_payment_currency">VND</string>
+    <string name="topup_payment_done">Thanh toán</string>
+    <string name="topup_payment_phone_number_title">Số điện thoại</string>
+    <string name="topup_payment_input_phone_number_title">Nhập số điện thoại</string>
+</resources>

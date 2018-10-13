@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_10k">10000</string>
+    <string name="cash_20k">20000</string>
+    <string name="cash_30k">30000</string>
+    <string name="cash_50k">50000</string>
+    <string name="cash_100k">100000</string>
+    <string name="cash_200k">200000</string>
+    <string name="cash_500k">500000</string>
+    <string name="cash_000">000</string>
+    <string name="cash_00">00</string>
+    <string name="cash_0">0</string>
+</resources>

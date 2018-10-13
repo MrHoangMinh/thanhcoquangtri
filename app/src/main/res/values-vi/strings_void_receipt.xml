@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="void_title">Edc Features</string>
+    <string name="settle_title">Settle</string>
+    <string name="void_button_title">Void</string>
+</resources>

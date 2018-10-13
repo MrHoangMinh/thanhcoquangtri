@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_payment_sctv_hcm_additional_infomation">Chưa hỗ trợ các quận/huyện: Nhà Bè, Bình Tân, Q.12 (có hỗ trợ phường Thạnh Lộc), H.Bình Chánh, Q.4, Q.9</string>
+    <string name="service_payment_evn_cpc_additional_infomation">Khu vực hỗ trợ: Huế - Đà Nẵng - Khánh Hòa - DakLak - Quảng Nam - Bình Định</string>
+</resources>

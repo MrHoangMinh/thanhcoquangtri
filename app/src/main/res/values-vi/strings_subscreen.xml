@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sub_screen_item_title">Sản phẩm</string>
+    <string name="sub_screen_unit_price">Đơn giá</string>
+    <string name="sub_screen_multiplication">x</string>
+    <string name="sub_screen_quantity">Số lượng</string>
+    <string name="sub_screen_time">Thời gian</string>
+    <string name="sub_screen_staff">Nhân viên</string>
+    <string name="sub_screen_total">Tổng</string>
+    <string name="sub_screen_currency">VND</string>
+    <!--<string name="sub_screen_welcome_seven_eleven">Welcome to 7-11</string>-->
+    <string name="sub_screen_thank_you">Xin cảm ơn</string>
+    <string name="sub_screen_return">Trả lại</string>
+    <string name="sub_screen_moca_suggest_title">Thanh toán bằng MOCA?</string>
+    <string name="sub_screen_seven_reward_suggest_title">7REWARDS</string>
+    <string name="sub_screen_seven_reward_suggest_content">Thêm khuyến mại và chiết khấu với</string>
+    <string name="sub_screen_seven_reward_info_title">Thông tin 7REWARDS:</string>
+</resources>

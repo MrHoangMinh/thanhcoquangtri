@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.piasy:rxandroidaudio-1.2.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxandroidaudio-1.2.2.aar/3707fea1e4ad1f23daa244abe1e3c874/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxandroidaudio-1.2.2.aar/3707fea1e4ad1f23daa244abe1e3c874/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.piasy/rxandroidaudio/1.2.2/80ec86253ec91a9d8f9c680067bce385ee7505de/rxandroidaudio-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

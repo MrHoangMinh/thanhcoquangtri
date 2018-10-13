@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_register_receipt_title">CLOSE REGISTER</string>
+    <string name="transfer_register_receipt_title">TRANSFER REGISTER</string>
+
+    <string name="shift_register_receipt_pos_id">POS Id:</string>
+    <string name="shift_register_receipt_sale_shift_id">Shift Id:</string>
+    <string name="shift_register_receipt_sa">SA:</string>
+    <string name="shift_register_receipt_begin_cash">Begin Cash:</string>
+    <string name="shift_register_receipt_sale_cash">Sale Cash:</string>
+    <string name="shift_register_receipt_sale_card">Sale Card:</string>
+    <string name="shift_register_receipt_sale_moca">Sale Moca:</string>
+    <string name="shift_register_receipt_sale_intel">Sale Intel:</string>
+    <string name="shift_register_receipt_cash_drop">Cash Drops:</string>
+    <string name="shift_register_receipt_cash_expense">Cash Expense:</string>
+    <string name="shift_register_receipt_cash_refund">Cash Refund:</string>
+    <string name="shift_register_receipt_moca_refund">Moca Refund:</string>
+    <string name="shift_register_receipt_card_refund">Card Refund:</string>
+    <string name="shift_register_receipt_reported_cash">Reported Cash:</string>
+    <string name="shift_register_receipt_surplus_amount">Surplus Amount:</string>
+    <string name="shift_register_receipt_over_short_cash_sc">Over/Short amount(SC):</string>
+    <string name="shift_register_receipt_over_short_cash_pos">Over/Short amount(POS):</string>
+    <!--<string name="close_register_receipt_short_cash">Short amount:</string>-->
+    <string name="shift_register_receipt_sign_here">Signature:</string>
+
+    <string name="transfer_register_receipt_info_title">Transfer Register Info</string>
+    <string name="transfer_register_shift_in_sa_title">SA:</string>
+    <string name="transfer_register_new_shift_title">Shift:</string>
+</resources>

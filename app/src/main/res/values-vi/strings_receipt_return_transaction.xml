@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="return_receipt_tel">Tel:</string>
+    <string name="return_receipt_fax">Fax:</string>
+    <string name="return_receipt_date">Date:</string>
+    <string name="return_receipt_hour">Time:</string>
+    <string name="return_receipt_title">RETURN RECEIPT</string>
+    <string name="return_receipt_title_copy">COPIED</string>
+    <string name="return_receipt_id">Ref:</string>
+    <string name="return_receipt_item_name">Name</string>
+    <string name="return_receipt_item_quantity">Qty</string>
+    <string name="return_receipt_item_price">Price</string>
+    <string name="return_receipt_item_subtotal">Subtotal</string>
+    <string name="return_receipt_quantity_total">Total quantity</string>
+    <string name="return_receipt_refund_amount">Refund amount</string>
+    <!--<string name="return_receipt_total_paid">Total paid</string>-->
+    <!--<string name="return_receipt_refund_cash">REFUND CASH</string>-->
+    <!--<string name="return_receipt_visa_paid">VISA</string>-->
+    <!--<string name="return_receipt_gift_card_paid">GIFT CARD</string>-->
+    <!--<string name="return_receipt_change">Change</string>-->
+    <string name="return_receipt_thanks">Thank you!</string>
+    <string name="return_receipt_signature">Signature:</string>
+    <!--<string name="return_receipt_sub_title">VAT invoice shall be available within 7 days, only if \n-->
+    <!--you ask our staff for the issuance TODAY. NO INVOICE \n-->
+    <!--shall be issued for the request after the following day of\n-->
+    <!--purchase.</string>-->
+    <string name="return_receipt_line">----------------------------------------------------------------------------------------------</string>
+    <string name="return_training_receipt_title">RETURN RECEIPT\n(TRAINING)</string>
+    <!--<string name="return_receipt_invoice_name">Name:</string>-->
+    <!--<string name="return_receipt_invoice_tax_number">Tax Number:</string>-->
+</resources>

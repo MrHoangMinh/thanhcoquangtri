@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="payment_confirm_cash_drawer_opening">Két đang mở, \nVui lòng kết thúc giao dịch và đóng két.</string>
+    <string name="payment_confirm_change_title">TRẢ LẠI</string>
+
+    <string name="payment_customer_gender_male">male</string>
+    <string name="payment_customer_gender_female">female</string>
+    <string name="payment_customer_age_range_less_than_twelve">less_than_twelve</string>
+    <string name="payment_customer_age_range_thirteen_to_twenty">thirteen_to_twenty</string>
+    <string name="payment_customer_age_range_twenty_one_to_thirty">twenty_one_to_thirty</string>
+    <string name="payment_customer_age_range_thirty_one_to_forty">thirty_one_to_forty</string>
+    <string name="payment_customer_age_range_greater_than_forty">greater_than_forty</string>
+    <string name="payment_input_invoice_link_title">Nhập số hóa đơn</string>
+    <string name="payment_input_intel_wwid_link_title">Intel WWID</string>
+    <string name="payment_input_intel_wwid_with_transaction_format">Intel WWID: %1$s \nIntel TransactionID: %2$s </string>
+    <string name="payment_input_intel_transactionid_link_title">Intel TransactionID</string>
+    <string name="payment_input_intel_wwid_without_transaction_format">Intel WWID: %s</string>
+    <string name="payment_apply_payment_promotions">Áp dụng\nkhuyến mại</string>
+    <string name="payment_visa">Phương thức thanh toán hoạt động với máy quẹt thẻ.</string>
+    <string name="dialog_phone_number_title">Số điện thoại</string>
+
+    <string name="payment_moca_suggestion_title_1">Thông báo với khách hàng quét mã QR trên màn hình phụ</string>
+    <string name="payment_moca_suggestion_title_2">Phương thức thanh toán sử dụng với ứng dụng MOCA</string>
+    <string name="payment_intel_amount_barcode_title">Mã vạch cho Intel:</string>
+    <string name="payment_moca_processing">Giao dịch đang được xử lý.</string>
+    <string name="dialog_moca_transaction_confirm_qr_support_title">(Sử dụng để quét mã QR giúp khách hàng)</string>
+    <string name="dialog_moca_transaction_confirm_title">Kiểm tra trạng thái trên ứng dụng MOCA của khách hàng để kết thúc giao dịch</string>
+    <string name="dialog_moca_transaction_confirm_fail">Thất bại</string>
+    <string name="dialog_moca_transaction_confirm_success">Thành công</string>
+    <string name="dialog_moca_code_id_title">Nhập mã giao dịch của MOCA</string>
+
+
+    <string name="other_payment_moca">MOCA</string>
+    <string name="other_payment_intel">INTEL</string>
+    <string name="payment_intel_suggestion">Phương thức thanh toán trên chỉ dùng cho thẻ Intel</string>
+
+    <!--<string name="payment_promotion_title">PROMOTIONS</string>-->
+    <!--<string name="payment_promotion_next_button">NEXT</string>-->
+</resources>

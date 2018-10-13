@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sub_screen_service_supplier">Nhà Cung Cấp</string>
+    <string name="sub_screen_service_value">Mệnh giá</string>
+    <string name="sub_screen_service_phone_number">Số Điện Thoại</string>
+    <string name="sub_screen_service_customer_no">Mã Khách Hàng</string>
+    <string name="sub_screen_service_customer_name">Tên Khách Hàng</string>
+    <string name="sub_screen_service_customer_address">Thông tin</string>
+    <string name="sub_screen_service_payment_type">Loại Thanh Toán</string>
+    <string name="sub_screen_service_bill_list">Danh sách hoá đơn </string>
+    <string name="sub_screen_service_bill_payment_fee">Phí:</string>
+
+    <string name="sub_screen_service_custom_cash_bill_info">Thông tin hoá đơn</string>
+    <string name="sub_screen_service_custom_cash_payment">Số tiền thanh toán</string>
+    <string name="sub_screen_service_custom_cash_min_range">Nhỏ nhất</string>
+    <string name="sub_screen_service_custom_cash_max_range">Lớn nhất</string>
+</resources>

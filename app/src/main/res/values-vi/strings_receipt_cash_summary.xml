@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_summary_receipt_title">CASH SUMMARY</string>
+    <string name="cash_summary_receipt_begin_cash_title">+ Beginning Cash:</string>
+    <string name="cash_summary_receipt_cash_drop_group_title">+ Cash Drops:</string>
+    <string name="cash_summary_receipt_cash_expense_group_title">+ Cash Expenses:</string>
+    <string name="cash_summary_receipt_refund_cash_group_title">+ Cash Refund:</string>
+    <string name="cash_summary_receipt_refund_visa_group_title">+ Credit Card Refund:</string>
+    <string name="cash_summary_receipt_refund_moca_group_title">+ Moca Refund:</string>
+    <string name="cash_summary_receipt_sale_transactions_group_title">+ Sale by cash:</string>
+    <string name="cash_summary_receipt_service_transactions_group_title">+ Service by cash:</string>
+    <string name="cash_summary_receipt_card_payment_group_title">+ Card Payment:</string>
+    <string name="cash_summary_receipt_moca_payment_group_title">+ Moca Payment:</string>
+    <string name="cash_summary_receipt_intel_payment_group_title">+ Intel Payment:</string>
+    <string name="cash_summary_receipt_current_cash_group_title">+ Current Cash:</string>
+    <string name="cash_summary_receipt_details_title">- Details:</string>
+    <string name="cash_summary_receipt_time">Time:</string>
+    <string name="cash_summary_receipt_cash_title">Cash:</string>
+    <string name="cash_summary_receipt_number_of_times">Number of times:</string>
+    <string name="cash_summary_receipt_detail_time">Time</string>
+    <string name="cash_summary_receipt_detail_type">Type</string>
+    <string name="cash_summary_receipt_detail_cash">Cash</string>
+    <string name="cash_summary_receipt_detail_sale_title">SALE(S)</string>
+    <string name="cash_summary_receipt_detail_cash_drop_title">CASH DROP(CD)</string>
+    <string name="cash_summary_receipt_detail_cash_expense_title">CASH EXPENSE(CE)</string>
+    <string name="cash_summary_receipt_detail_card_payment_title">CARD PAYMENT(CPM)</string>
+    <string name="cash_summary_receipt_detail_moca_payment_title">MOCA PAYMENT(MO)</string>
+    <string name="cash_summary_receipt_detail_intel_payment_title">INTEL PAYMENT(INTEL)</string>
+    <string name="cash_summary_receipt_detail_refund_cash_title">REFUND(RE-S)</string>
+    <string name="cash_summary_receipt_detail_refund_visa_title">REFUND(RE-CPM)</string>
+    <string name="cash_summary_receipt_detail_refund_moca_title">REFUND(RE-MO)</string>
+    <string name="cash_summary_receipt_detail_line">----------------------------------------------------------</string>
+</resources>

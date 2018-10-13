@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_payment_title">Thanh toán dịch vụ</string>
+    <string name="service_payment_cash">Số tiền thanh toán</string>
+    <string name="service_payment_customer_no">Mã khách hàng</string>
+    <string name="service_payment_customer_phone">Số điện thoại</string>
+    <string name="service_payment_input_customer_no">Nhập mã khách hàng</string>
+    <string name="service_payment_input_cash">Nhập số tiền cần thanh toán</string>
+    <string name="service_payment_supplier">Nhà cung cấp</string>
+    <string name="service_payment_choose_supplier">Chọn nhà cung cấp</string>
+    <string name="service_payment_type">Loại thanh toán</string>
+    <string name="service_payment_choose_type">Chọn loại thanh toán</string>
+    <string name="service_payment_query">Nhập</string>
+    <string name="service_payment_currency">VND</string>
+    <string name="service_payment_customer_payment_list">Danh sách hoá đơn</string>
+    <string name="service_payment_customer_payment_list_choose_all">Chọn tất cả</string>
+    <string name="service_payment_customer_payment_list_total">Tổng Cộng</string>
+    <string name="service_payment_customer_payment_fee">Phí:</string>
+    <string name="service_payment_done">Thanh Toán</string>
+    <string name="service_payment_customer_details">Thông tin:</string>
+    <string name="service_payment_customer_name">Tên khách hàng:</string>
+    <string name="service_payment_money_amount">Số tiền theo kỳ:</string>
+
+
+    <string name="service_payment_min_range">Nhỏ nhất</string>
+    <string name="service_payment_max_range">Lớn nhất</string>
+</resources>

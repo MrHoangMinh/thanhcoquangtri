@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">7-Eleven</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="title_activity_home">Màn hình chính</string>
+    <string name="title_activity_retrieve_order">RetrieveOrderActivity</string>
+    <string name="currency_format">###,###,###,##0</string>
+    <string name="title_activity_input_quantity">InputQuantityActivity</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+    <string name="open_cash_drawer">Két tiền đang mở,\nVui lòng nhập số tiền và đóng két tiền</string>
+    <string name="open_cash_drawer_shift_out">Két tiền đang mở,\n Vui lòng lấy tiền ra và đóng két tiền</string>
+    <string name="ok">Ok</string>
+    <string name="title_activity_discount">DiscountActivity</string>
+
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_instore_payment">InstorePaymentActivity</string>
+    <string name="withdraw_cash_tray_amount">Số tiền rút ra</string>
+    <string name="bill_denomination">Mệnh giá</string>
+    <string name="number_of_bill">Số lượng</string>
+    <string name="withdraw_amount">Số tiền rút ra</string>
+    <string name="cash_tray_balance">Số tiền trong két</string>
+    <string name="drop_over">Bạn không thể rút số tiền nhiều hơn trong két</string>
+    <string name="drop_zero">Vui lòng nhập số lượng muốn rút</string>
+    <string name="cash_drop_success">Rút tiền thành công</string>
+    <string name="cash_drop_fail">Đã có lỗi xảy ra, vui lòng thử lại</string>
+    <string name="open_cash_drop">Két đầy\n Vui lòng rút tiền ra</string>
+    <string name="cash_tray_over_notify">KÉT ĐẦY. VUI LÒNG RÚT TIỀN RA.</string>
+    <string name="out_of_db_notify">DỮ LIỆU CHƯA ĐƯỢC CẬP NHẬT.</string>
+    <string name="currency">VND</string>
+    <string name="pos_state_off">CHƯA ĐĂNG KÍ</string>
+    <string name="pos_state_on">ĐÃ ĐĂNG KÍ</string>
+    <string name="request_close_cash_drawer_to_continue">Vui lòng đóng két tiền để tiếp tục.</string>
+
+    <string name="actionbar_product_price">Đơn giá</string>
+    <string name="actionbar_multiplication">x</string>
+    <string name="actionbar_product_number">SL</string>
+    <string name="actionbar_product_paid">Tổng</string>
+    <string name="actionbar_product_type_total">SKUs</string>
+    <string name="actionbar_product_number_total">Sản phẩm</string>
+
+    <string name="notifications_support_card_transaction_popup_title">Quẹt hoặc Đút thẻ vào máy thanh toán bằn thẻ</string>
+    <string name="dialog_support_transaction_external_info_edc_title">Thông tin hóa đơn ngân hàng</string>
+    <string name="dialog_support_transaction_external_info_edc_trace_no">Mã giao dịch</string>
+    <string name="dialog_support_transaction_external_info_edc_approval_code">Mã chuẩn chi</string>
+    <string name="dialog_support_transaction_external_info_intel_wwid_title">Mã WWID</string>
+    <string name="dialog_support_transaction_external_info_intel_wwid">WWID</string>
+    <string name="dialog_support_transaction_external_info_intel_transaction_id">Mã giao dịch của Intel</string>
+    <string name="dialog_support_transaction_external_info_check_last_transaction_status_title">Kiểm tra thông tin giao dịch cuối</string>
+
+    <string name="dialog_notifications_card_transaction_check_status">KIỂM TRA</string>
+    <string name="dialog_notifications_card_transaction_cancel">THOÁT</string>
+
+    <string name="dialog_notifications">Quẹt hoặc Đút thẻ vào máy Thanh toán thẻ</string>
+    <string name="dialog_notifications_sync_data">CẬP NHẬT DỮ LIỆU \nVui lòng đóng ca để cập nhật dữ liệu</string>
+    <string name="dialog_notifications_sync_data_animation">CẬP NHẬT DỮ LIỆU</string>
+    <string name="dialog_notifications_confirm_sync_data_yes">CẬP NHẬT NGAY</string>
+    <string name="dialog_notifications_confirm_sync_data_no">ĐỂ SAU</string>
+    <string name="dialog_notifications_confirm_sync_data_complete">THANH TOÁN\nTHÀNH CÔNG</string>
+    <string name="dialog_notifications_sync_data_time_format">Cập nhật dữ liệu sau %1$d phút, %2$d giây</string>
+
+    <string name="dialog_notifications_retry_payoo">Thanh toán Payoo xảy ra lỗi</string>
+    <string name="dialog_notifications_confirm_retry_payoo_yes">THỬ LẠI</string>
+    <string name="dialog_notifications_confirm_retry_payoo_no">HỦY</string>
+
+    <string name="dialog_notifications_confirm_remove_promotion">Thay đổi phương thức sẽ xóa bỏ chương trình khuyến mại.\nBạn có muốn tiếp tục không?</string>
+    <string name="dialog_notifications_confirm_remove_promotion_yes">XÁC NHẬN</string>
+    <string name="dialog_notifications_confirm_remove_promotion_no">HỦY</string>
+
+    <string name="dialog_notifications_confirm_replace_voucher">Áp dụng mã giảm trên sẽ xóa toàn bộ giao dịch.\nBạn có muốn tiếp tục không?</string>
+    <string name="dialog_notifications_confirm_replace_voucher_yes">THAY THẾ</string>
+    <string name="dialog_notifications_confirm_replace_voucher_no">HỦY</string>
+
+    <string name="dialog_notifications_operation_time_out">Lỗi kết nối. VUi lòng thử lại</string>
+    <string name="dialog_notifications_confirm_retry_operation_yes">THỬ LẠI</string>
+    <string name="dialog_notifications_confirm_retry_operation_check_offline">KIỂM TRA NGOẠI TUYẾN</string>
+
+    <string name="dialog_notifications_top_up_payoo_wait_10s">Vui lòng kiểm tra tài khoản nạp tiền của khách hàngr</string>
+    <string name="dialog_notifications_top_up_payoo_retry">Thanh toán nạp xảy ra lỗi do kết nối mạng\n(Xác nhận với khách hàng hoặc thử lại)</string>
+
+    <string name="phone_country_code">84</string>
+    <string name="payment_default_country_code">+84</string>
+
+    <!--ERROR-->
+    <string name="error_common">Đã có lỗi xảy ra. Vui lòng thử lại</string>
+    <string name="error_title">LỖI</string>
+    <string name="error_button">OK</string>
+    <string name="default_response_error_message">Xử lý thất bại</string>
+
+    <string name="customer_information">Quét mã QR hoặc nhập số điện thoại</string>
+    <string name="delivery_title">Delivery</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+  <color name="colorapptext">#36aef5</color>
+  <color name="white">#ffffff</color>
+  <color name="coppyrightcolor">#bababa</color>
+  <color name="layoutmaincentercolor">#aaffffff</color>
+  <color name="menuheader">#273444</color>
+  <color name="menubody">#1f2d3d</color>
+  <color name="unchecked">#b8c3d1</color>
+  <color name="layoutbar_color">#c0ccd9</color>
+
+</resources>

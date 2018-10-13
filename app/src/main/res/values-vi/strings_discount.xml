@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_discount_title">Chiết khấu</string>
+    <string name="home_discount_offline_title">Chiết khấu ngoại tuyến</string>
+    <string name="home_scan_discount_product_title">Quét mã vạch\nsản phẩm chiết khấu</string>
+    <string name="home_discount_price_offline">Nhấp giá chiết khấu</string>
+</resources>

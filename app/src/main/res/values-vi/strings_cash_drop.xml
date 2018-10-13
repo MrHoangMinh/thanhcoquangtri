@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_drop_title">RÚT TIỀN</string>
+    <string name="cash_drop_available_cash_drop_amount">Số tiền yêu cầu</string>
+    <string name="cash_drop_amount">Số tiền rút</string>
+    <string name="cash_drop_submit_button">XÁC NHẬN</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="receipt_address">Address:</string>
+    <string name="receipt_tel">Tel:</string>
+    <string name="receipt_fax">Fax:</string>
+    <string name="receipt_date">Date:</string>
+    <string name="receipt_hour">Time:</string>
+    <string name="receipt_title">RECEIPT</string>
+    <string name="receipt_title_copy">REPRINT</string>
+    <string name="receipt_id">Ref:</string>
+    <string name="receipt_return_id">ID:</string>
+    <string name="receipt_item_name">Name</string>
+    <string name="receipt_item_quantity">Qty</string>
+    <string name="receipt_item_price">Price</string>
+    <string name="receipt_item_subtotal">Subtotal</string>
+    <string name="receipt_quantity_total">Total quantity</string>
+    <string name="receipt_total_amount">Total</string>
+    <string name="receipt_total_amount_vat_include">Total (+VAT)</string>
+    <string name="receipt_total_amount_non_vat_include">Total</string>
+    <string name="receipt_total_discount_amount">Total Discount</string>
+    <string name="receipt_total_payment_fee">Additional Fee</string>
+    <string name="receipt_total_paid">Total paid</string>
+    <string name="receipt_cash_paid">CASH</string>
+    <string name="receipt_visa_paid">CARD</string>
+    <string name="receipt_moca_paid">MOCA</string>
+    <string name="receipt_intel_paid">INTEL</string>
+    <string name="receipt_gift_card_paid">GIFT CARD</string>
+    <string name="receipt_change">Change</string>
+    <string name="receipt_thanks">Thank you!</string>
+    <string name="receipt_non_vat_tip_title">Không có giá trị xuất hoá đơn VAT</string>
+    <string name="receipt_sub_normal_title">Chỉ có giá trị xuất hoá đơn VAT trong ngày. Thời gian giao hoá đơn VAT trong vòng 7 ngày.</string>
+    <string name="receipt_line">----------------------------------------------------------------------------------------------</string>
+    <string name="receipt_invoice_name">Customer Name:</string>
+    <string name="receipt_invoice_phone_number">Phone Number:</string>
+    <string name="receipt_invoice_company_name">Company Name:</string>
+    <string name="receipt_invoice_company_address">Company Address:</string>
+    <string name="receipt_invoice_tax_number">Tax Code:</string>
+    <string name="receipt_invoice_postal_address">Postal Address:</string>
+    <string name="receipt_card_info">CARD INFO</string>
+    <string name="receipt_card_info_card_code_title">Card Code:</string>
+    <string name="receipt_card_info_serial_number_title">Serial Number:</string>
+    <string name="receipt_card_info_expiry_date_title">Expired Date:</string>
+    <string name="receipt_info_provider_title">Provider:</string>
+    <string name="receipt_info_service_title">Service:</string>
+    <string name="receipt_info_query_title">Tracking Code:</string>
+    <string name="receipt_for_customer_note">(Liên giao khách hàng)</string>
+
+    <string name="receipt_service_info">SERVICE INFO</string>
+    <string name="receipt_service_info_order_no">Order No:</string>
+    <string name="receipt_service_info_customer_id">Customer No:</string>
+    <string name="receipt_service_info_customer_name">Name:</string>
+    <string name="receipt_service_info_customer_address">Address:</string>
+    <string name="receipt_service_info_customer_phone">Phone:</string>
+    <string name="receipt_service_add_info">Add Info:</string>
+
+    <string name="receipt_service_note_include_payment_fee">Đã bao gồm Phí dịch vụ của các bên hỗ trợ thanh toán</string>
+    <string name="receipt_service_note_link_with_payoo">Dịch vụ được liên kết với Payoo</string>
+    <string name="receipt_service_note_payoo_hot_line">Vui lòng liên hệ với cửa hàng bạn đã mua hoặc liên hệ với hotline Payoo: <b>(84–28) 3911 7147 – 1900 545478</b></string>
+    <string name="receipt_service_customer_signature_title">Chữ ký khách hàng</string>
+
+    <string name="receipt_ads">Từ <b>15/1-15/2/2018</b>, hãy tích điểm trên 7REWARDS với <b>hóa đơn từ 80,000đ</b> để nhận ngay 01 lượt quay trên vòng xoay <b>Chạm Là Trúng 100%</b> nhé.</string>
+    <string name="receipt_ads_contact">Thông tin chi tiết vui lòng liên hệ cửa hàng hoặc xem tại <b><u>bit.ly/chamlatrung2018</u></b>.</string>
+
+    <string name="receipt_topup_info">TOPUP INFO</string>
+    <string name="receipt_topup_info_phone_number">Phone No:</string>
+    <string name="receipt_topup_info_card_value">Card:</string>
+    <string name="receipt_topup_info_card_value_name">Provider:</string>
+
+    <string name="receipt_discount_title">Discount Items:</string>
+    <string name="receipt_discount_total_title">Discount (+VAT):</string>
+    <string name="receipt_discount_total_without_tax_title">Discount (-VAT):</string>
+    <string name="receipt_training_title">TRAINING RECEIPT</string>
+
+    <string name="receipt_promotion_total_title">Promotion (+VAT)</string>
+    <string name="receipt_promotion_total_without_tax_title">Promotion (-VAT)</string>
+    <string name="receipt_promotion_info_title">Promotion Info</string>
+
+    <string name="receipt_vat_title">VAT</string>
+    <string name="receipt_sub_total_non_vat_title">SubTotal</string>
+
+    <string name="receipt_reward_info_title">7REWARDS Info</string>
+    <!--<string name="receipt_reward_info">User %1$s [%2$s] recorded successfully %3$d points in 7REWARDS app.</string>-->
+    <string name="receipt_reward_info">Khách hàng %1$s đã tích được thêm %2$d điểm. Để biết thêm thông tin chi tiết, vui lòng tra cứu trên ứng dụng 7REWARDS.</string>
+    <string name="receipt_payment_info">PAYMENT INFO</string>
+    <string name="receipt_payment_info_terminal_id">Terminal ID:</string>
+    <string name="receipt_payment_info_merchant_no">Merchant NO:</string>
+    <string name="receipt_payment_info_appv_code">App.CODE:</string>
+    <string name="receipt_payment_info_edc_invoice_no">INVOICE NO:</string>
+    <string name="receipt_payment_info_ref_no">Ref NO:</string>
+    <string name="receipt_payment_info_card_type">Card Type:</string>
+    <string name="receipt_payment_info_details">Details:</string>
+</resources>

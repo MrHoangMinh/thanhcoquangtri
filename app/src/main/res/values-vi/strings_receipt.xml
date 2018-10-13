@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="receipt_info_pos_id">POS:</string>
+    <string name="receipt_info_sale_shift_id">Shift:</string>
+    <string name="receipt_info_sa">SA:</string>
+    <string name="receipt_store_id">Store:</string>
+    <string name="receipt_blank_title">STORE MEMO</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_confirm_cash_tray_amount">Số tiền mặt</string>
+    <string name="cash_confirm_cancel"><u>HỦY</u></string>
+    <string name="cash_confirm_introduction_title">Xác nhận số tiền trong két để tiếp tục</string>
+    <string name="cash_confirm_over_short_amount">Số tiền chênh lệch</string>
+    <string name="cash_confirm_submit">XÁC NHẬN</string>
+    <string name="cash_confirm_del">XÓA</string>
+    <string name="cash_confirm_default">--</string>
+    <string name="cash_confirm_open_register">MỞ CA</string>
+    <string name="cash_confirm_close_register">ĐÓNG CA</string>
+    <string name="cash_confirm_transfer_shift">ĐỔI CA</string>
+    <string name="cash_confirm_cash_count">SUBMIT CASH</string>
+    <string name="cash_confirm_reported_cash_title">Số tiền ghi nhận:</string>
+    <string name="cash_confirm_surplus_amount_title">Số tiền chênh lệch:</string>
+
+    <string name="cash_confirm_open_register_confirm_cash_tray">XÁC NHẬN VÀO CA</string>
+    <string name="cash_confirm_close_register_confirm_cash_tray">XÁC NHẬN ĐÓNG CA</string>
+    <string name="cash_confirm_transfer_shift_confirm_cash_tray">XÁC NHẬN VÀO CA</string>
+    <string name="cash_confirm_cash_count_confirm_cash_tray">XÁC NHẬN ĐẾM TIỀN</string>
+
+    <string name="view_confirm_cash_amount_via_card_link"><u>Xác nhận bằng thẻ</u></string>
+    <string name="view_confirm_cash_amount_via_id_link"><u>Xác nhận bằng ID</u></string>
+    <string name="view_confirm_cash_amount_cancel"><u>Hủy</u></string>
+
+    <string name="view_confirm_cash_amount_tap_card_confirm_open_shift">Quẹt thẻ để xác nhận số tiền trong két</string>
+    <string name="view_confirm_cash_amount_enter_id_confirm_open_shift">Nhập ID để xác nhận số tiền trong két</string>
+    <string name="view_confirm_cash_amount_tap_card_confirm_close_shift">Quẹt thẻ để xác nhận số tiền trong két</string>
+    <string name="view_confirm_cash_amount_enter_id_confirm_close_shift">Nhập ID để xác nhận số tiền trong két</string>
+    <string name="view_confirm_cash_amount_tap_card_confirm_transfer_shift">Quẹt thẻ để xác nhận số tiền trong két và mở ca</string>
+    <string name="view_confirm_cash_amount_enter_id_confirm_transfer_shift">Nhập ID để xác nhận số tiền trong két và mở ca</string>
+    <string name="view_confirm_cash_amount_tap_card_confirm_cash_count">Quẹt thẻ để xác nhận số tiền trong két và đóng ca</string>
+    <string name="view_confirm_cash_amount_enter_id_confirm_cash_count">Nhập ID để xác nhận số tiền trong két và đóng ca</string>
+
+    <string name="view_confirm_cash_amount_your_id">Mã ID</string>
+    <string name="view_confirm_cash_amount_pin_code">Mã PIN</string>
+    <string name="view_confirm_cash_amount_via_pin_code_invalid_card">Thẻ không hợp lệ, vui lòng thử lại</string>
+    <string name="view_confirm_cash_amount_via_pin_code_invalid_password">ID hoặc mã PIN không đúng, vui lòng thử lại</string>
+    <string name="view_confirm_cash_amount_must_be_confirmed_by_another_sa_or_sm">Phải được xác nhận bởi một SA khác hoặc SM</string>
+
+    <string name="dialog_over_short_amount_confirm_current_amount_message">Số tiền hiện tại bị chênh lệch:</string>
+    <string name="dialog_over_short_amount_confirm_ask_continue_message">Có muốn tiếp tục không?</string>
+    <string name="dialog_over_short_amount_confirm_continue">TIẾP TỤC</string>
+    <string name="dialog_over_short_amount_confirm_recount">ĐẾM LẠI</string>
+
+    <string name="dialog_cash_count_confirm_recount">ĐẾM LẠI</string>
+    <string name="dialog_cash_count_confirm_continue">TIẾP TỤC</string>
+    <string name="cash_confirm_cash_count_amount">Đếm tiền</string>
+    <string name="request_close_cash_drawer_with_cash_count_to_continue">Số tiền chênh lệch: </string>
+    <string name="dialog_cash_count_amount_confirm_ask_continue_message">Có muốn gửi thông tin không?</string>
+</resources>
