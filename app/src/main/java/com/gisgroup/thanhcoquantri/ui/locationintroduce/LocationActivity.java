@@ -16,6 +16,7 @@ import com.gisgroup.thanhcoquantri.ui.generainfomation.GeneralInforActivity;
 import com.gisgroup.thanhcoquantri.ui.map.MapActivity;
 
 public class LocationActivity extends BaseActivity {
+  private static String TAG = "LocationActivity";
   @BindView(R.id.mainbuttonmap)
   RelativeLayout mainButtonMap;
   @BindView(R.id.mainbuttonlocation)
@@ -57,6 +58,9 @@ public class LocationActivity extends BaseActivity {
     }
   }
   public static Intent newIntent(Context context, boolean isClearTop) {
+    if(context.getClass().getSimpleName().equals(TAG)){
+      return null;
+    }
     Intent intent = new Intent(context, LocationActivity.class);
     if (isClearTop) {
       intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_SINGLE_TOP);

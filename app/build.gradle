@@ -67,4 +67,7 @@ dependencies {
     // exclude Retrofit’s OkHttp peer-dependency module and define your own module import
     exclude module: 'okhttp'
   }
+  debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.5'
+  releaseImplementation 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
+  testImplementation 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
 }

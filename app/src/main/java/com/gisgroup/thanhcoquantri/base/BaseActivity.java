@@ -1,6 +1,7 @@
 package com.gisgroup.thanhcoquantri.base;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -25,6 +26,7 @@ import com.gisgroup.thanhcoquantri.ui.applicaitonintroduce.IntroduceActivity;
 import com.gisgroup.thanhcoquantri.ui.generainfomation.GeneralInforActivity;
 import com.gisgroup.thanhcoquantri.ui.locationintroduce.LocationActivity;
 import com.gisgroup.thanhcoquantri.ui.map.MapActivity;
+import com.squareup.leakcanary.RefWatcher;
 
 public class BaseActivity extends AppCompatActivity
     implements NavigationView.OnNavigationItemSelectedListener,NavigationView.OnAttachStateChangeListener  {
@@ -36,6 +38,8 @@ public class BaseActivity extends AppCompatActivity
     requestWindowFeature(Window.FEATURE_NO_TITLE);
     getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
         WindowManager.LayoutParams.FLAG_FULLSCREEN);
+    RefWatcher refWatcher = GisGroupApplication.getRefWatcher(this);
+    refWatcher.watch(this);
   }
 
   protected void init(){
@@ -55,30 +59,28 @@ public class BaseActivity extends AppCompatActivity
   @SuppressWarnings("StatementWithEmptyBody")
   @Override
   public boolean onNavigationItemSelected(MenuItem item) {
-    // Handle navigation view item clicks here.
     AppManager appManager = AppManager.getAppManagerIntands();
     int id = item.getItemId();
-
+    Intent intent = null;
     if (id == R.id.nav_map) {
-      // Handle the camera action
       appManager.setMenuSelectedIndex(0);
-      startActivity(MapActivity.newIntent(this,true));
-      finish();
+      intent = MapActivity.newIntent(this,true);
     } else if (id == R.id.nav_generalinfo) {
       appManager.setMenuSelectedIndex(1);
-      startActivity(GeneralInforActivity.newIntent(this,true));
-      finish();
-
+      intent = GeneralInforActivity.newIntent(this,true);
     } else if (id == R.id.nav_location) {
       appManager.setMenuSelectedIndex(2);
-      startActivity(LocationActivity.newIntent(this,true));
-      finish();
+      intent = LocationActivity.newIntent(this,true);
     } else if (id == R.id.nav_introduce) {
       appManager.setMenuSelectedIndex(3);
-      startActivity(IntroduceActivity.newIntent(this,true));
+      intent = IntroduceActivity.newIntent(this,true);
+    }
+    if (intent != null){
+      startActivity(intent);
       finish();
     }
     drawer.closeDrawer(GravityCompat.START);
+
     return true;
   }
 

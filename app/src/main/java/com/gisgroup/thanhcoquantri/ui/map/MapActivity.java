@@ -58,6 +58,8 @@ public class MapActivity extends BaseActivity implements MapAdapter.MapAdapterLi
   private MapAdapter mMapAdapter;
   private RecyclerView.LayoutManager mLayoutManager;
   private MapModel mapModel;
+
+  private static String TAG = "MapActivity";
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
@@ -115,6 +117,9 @@ public class MapActivity extends BaseActivity implements MapAdapter.MapAdapterLi
     }
   }
   public static Intent newIntent(Context context, boolean isClearTop) {
+    if(context.getClass().getSimpleName().equals(TAG)){
+      return null;
+    }
     Intent intent = new Intent(context, MapActivity.class);
     if (isClearTop) {
       intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_SINGLE_TOP);
